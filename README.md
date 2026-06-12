@@ -1,6 +1,6 @@
 # ⚽ Gerador e Classificador de Campeonato de Futebol
 
-Projeto desenvolvido em Java que simula partidas entre times de futebol, gerando confrontos aleatórios e organizando os resultados em uma tabela de classificação.
+Projeto desenvolvido em Java Swing que simula partidas entre times de futebol, gerando confrontos aleatórios e organizando os resultados em uma tabela de classificação.
 
 ## 📋 Funcionalidades
 
